@@ -1,47 +1,42 @@
 /* Inserta tu CSS aqui */
 
-.first{
+.cesped{
 	background:#0B610B;
-	width: 1000px;
 	height: 550px;
-	margin: 0;
-	position: relative;
-	top: 80px;
-	left: 15%;
+	width: 830px;
+
 }
-.second{
+.limites{
 	border: 2px solid white;
 	width: 800px;	
 	height: 500px;
 	position: absolute;
-	bottom: 15px;
-	left: 25%;
+	left: 20px;
+	top: 25px;
 }
-.arco{
-	border: 2px solid white;
-	position: absolute;
-	width: 100px;
+.arco-iz {
+	border: 1px solid white;
+	position: relative;
+	width: 150px;
 	height: 250px;
-	left: 25%;
-	top:40%;
+	left: 13px;
+	top:25%;
 
 }
-.arco2{
-	border: 2px solid white;
-	position: absolute;
-	width: 100px;
+.arco-der {
+	border: 1px solid white;
+	position: relative;
+	width: 150px;
 	height: 250px;
-	left: 77%;
-	top: 40%;
+	left: 80%;
+	bottom: 21%;
 }
-
-.circulo{
+.circulo {
 	width: 200px;
 	height: 200px;
 	border-radius: 50%;
 	position: absolute;
-	top: 45%;
-	left: 50%;
+	top: 26%;
+	left:25%;
 	border: 2px solid white;
-
 }
